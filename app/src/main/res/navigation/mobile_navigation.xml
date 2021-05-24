@@ -12,14 +12,22 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/nav_gallery"
+        android:id="@+id/nav_departments"
         android:name="com.example.a360refo.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
+        android:label="@string/menu_department"
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
-        android:id="@+id/nav_slideshow"
+        android:id="@+id/nav_institutions"
         android:name="com.example.a360refo.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
+        android:label="@string/menu_institutions"
         tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_body"
+        android:name="com.example.a360refo.ui.body.BodyFragment"
+        android:label="@string/menu_body"
+        tools:layout="@layout/fragment_body"/>
+
+
+
 </navigation>
