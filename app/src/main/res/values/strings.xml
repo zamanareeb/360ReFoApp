@@ -6,7 +6,19 @@
     <string name="nav_header_subtitle">http://www.360rf.in/</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
-    <string name="join_us">JOIN US</string>
+    <string name="body_head">The 360 Research Foundation (360RF) is a National level initiative to promote and facilitate the grassroots researches and technological innovations with collaborative and interdisciplinary research and enhancement of research networking capacity and infrastructure. Its mission is to help researchers, innovators and creative minds in the field if empowerment and livelihood. It  relies or dignifies on various  needful prospects that provides to those poverty people and the children in a different locations respectively.</string>
+    <string name="heading_1">Our Activities</string>
+
+    <string name="internship">Get Internship and Training opportunity at one of the fastest growing organisation in India. Students from IITs, NITs and top National Universities are doing Internship in different fields. </string>
+    <string name="campus_activity">We conduct campus activities like science exhibitions, motivational programmes, quiz etc. in different schools, coaching centres, and other institutions to support personality development.</string>
+    <string name="health_camp">Currently 15 to 20 health workers in each village Teams are reaching and checking the health of people above 40 years of age. In this test, Blood Pressure, Pulse Rate, Oxygen Label, Heart Beat, Body Temperature, Weight, Height etc. are being tested for free.</string>
+    <string name="first_aid">First Aid is Hiring 45103 First Aid Health Workers and 534 Block Coordinators to work in the respective Villages and Blocks. Responsibilities:- 1. To continue First Aid and Health Awareness Programmes. 2. To conduct Basic Medical Training.</string>
+    <string name="ican_news">I-CAN (India Co-Win Action Network) is an initiative by Atal Incubation Centre- Rambhau Mhalgi Prabodhini (AIC-RMP) in collaboration with Connecting Dreams Foundation (CDF) to help underprivileged communities that have been hardest hit due covid19.</string>
+    <string name="save_plants">Brikshabandhan is an initiative to save the plants and aware the students and the people to care for conservation. It is the platform to get knowledge how essential things are related to the Nature in our daily life. Let\'s come together to save plants. Save Plants, Save Life!</string>
+    <string name="innovation">Beyond the boundaries of formal institutions, a large number of individuals in the informal sector have been engaged in innovative technological pursuits of their own. 360 R.F. has been earnestly scouting and documenting such technological ideas and innovations of the people at the grassroots and school students from all parts of the India.</string>
+    <string name="article_writing">We comprise a team of world-class research article writing and publication experts with utmost experience and are here to the rescue. When you reach out to and engage for our services, rest assured that you will be provided with high guidance level by Dr. G Adilakshmi. HOD, Department of Science and Technology, 360 Research Foundation.</string>
+    <string name="ctm">Channa Sattu Making Machine is made by an Innovator of 360 Research and Innovation Group Mr. Satyanaran Hajara. He is a grassroots worker with experience in the field of Electrical and Electronics device maintenance, Thermal Machines, Ayurveda etc.</string>
+    <string name="copyright">COPYRIGHT ©2021 ALL RIGHTS RESERVED | 360 RESEARCH FOUNDATION</string>
 
     <string name="menu_home">Home</string>
     <string name="menu_department">Departments</string>
