@@ -8,6 +8,11 @@
     <string name="action_settings">Settings</string>
     <string name="body_head">The 360 Research Foundation (360RF) is a National level initiative to promote and facilitate the grassroots researches and technological innovations with collaborative and interdisciplinary research and enhancement of research networking capacity and infrastructure. Its mission is to help researchers, innovators and creative minds in the field if empowerment and livelihood. It  relies or dignifies on various  needful prospects that provides to those poverty people and the children in a different locations respectively.</string>
     <string name="heading_1">Our Activities</string>
+    <string name="heading_2">Departments</string>
+
+    <string name="phone_no">+91-9471040714</string>
+    <string name="mail">contact@360rf.in</string>
+    <string name="mail2">hod@360rf.in</string>
 
     <string name="internship">Get Internship and Training opportunity at one of the fastest growing organisation in India. Students from IITs, NITs and top National Universities are doing Internship in different fields. </string>
     <string name="campus_activity">We conduct campus activities like science exhibitions, motivational programmes, quiz etc. in different schools, coaching centres, and other institutions to support personality development.</string>
@@ -19,9 +24,38 @@
     <string name="article_writing">We comprise a team of world-class research article writing and publication experts with utmost experience and are here to the rescue. When you reach out to and engage for our services, rest assured that you will be provided with high guidance level by Dr. G Adilakshmi. HOD, Department of Science and Technology, 360 Research Foundation.</string>
     <string name="ctm">Channa Sattu Making Machine is made by an Innovator of 360 Research and Innovation Group Mr. Satyanaran Hajara. He is a grassroots worker with experience in the field of Electrical and Electronics device maintenance, Thermal Machines, Ayurveda etc.</string>
     <string name="copyright">COPYRIGHT ©2021 ALL RIGHTS RESERVED | 360 RESEARCH FOUNDATION</string>
+    <string name="department_description">Engaging in research, innovation, and development is the hallmark.</string>
+
+    <string name="subheading_1">Department of Rural Development</string>
+    <string name="subheading_2">Project Management &amp; Appraisal</string>
+    <string name="subheading_3">Public-Private Partnerships</string>
+    <string name="subheading_4">Voluntary Action Cell</string>
+    <string name="subheading_5">Agriculture</string>
+    <string name="subheading_6">Data Management &amp; Analysis</string>
+    <string name="subheading_7">Energy</string>
+    <string name="subheading_8">Industries</string>
+    <string name="subheading_9">Environment &amp; Natural Resources</string>
+    <string name="subheading_10">Science &amp; Technology</string>
+    <string name="subheading_11">Skill Development &amp; Employment</string>
+    <string name="subheading_12">Social Justice &amp; Empowerment</string>
+    <string name="subheading_13">Development Goals</string>
+    <string name="subheading_14">Department of Women &amp; Child Development</string>
+
 
     <string name="menu_home">Home</string>
-    <string name="menu_department">Departments</string>
-    <string name="menu_institutions">Institutions</string>
-    <string name="menu_body">Body</string>
+    <string name="feedback_form">Feedback</string>
+    <string name="feedback_name">Name</string>
+    <string name="feedback_mail">Email</string>
+    <string name="feedback_phone">Phone</string>
+    <string name="feedback_message">Your Message</string>
+    <string name="feedback_button">Submit</string>
+    <string name="title_activity_feedback">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 </resources>

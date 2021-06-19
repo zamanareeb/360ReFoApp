@@ -1,22 +1,22 @@
 package com.example.a360refo.ui.home;
 
 
-import androidx.lifecycle.ViewModel;
+public class HomeViewModel  {
 
-public class HomeViewModel extends ViewModel {
+    int Image;
 
-    private String imgUrl;
-
-    public HomeViewModel(String imgUrl) {
-        this.imgUrl = imgUrl;
+    public HomeViewModel() {
     }
 
-    public String getImgUrl() {
-        return imgUrl;
+    public HomeViewModel(int image) {
+        Image = image;
     }
 
-    public void setImgUrl(String imgUrl) {
-        this.imgUrl = imgUrl;
+    public int getImage() {
+        return Image;
     }
 
+    public void setImage(int image) {
+        Image = image;
+    }
 }
